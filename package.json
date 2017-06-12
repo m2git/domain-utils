@@ -1,0 +1,19 @@
+{
+  "name": "domainjs",
+  "version": "1.0.0",
+  "description": "Validate domain name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m2git/domainjs.git"
+  },
+  "author": "'Manish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m2git/domainjs/issues"
+  },
+  "homepage": "https://github.com/m2git/domainjs#readme"
+}
