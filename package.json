@@ -1,5 +1,5 @@
 {
-  "name": "domainjs",
+  "name": "@m2npm/domain-utils",
   "version": "1.0.0",
   "description": "Validate domain name",
   "main": "src/index.js",
